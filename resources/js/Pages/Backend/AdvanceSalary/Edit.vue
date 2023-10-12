@@ -38,7 +38,7 @@
                         <div class="footerPartWrapper">
                             <div class="signature">
                                 <span class="signature">Signature</span>
-                                <h2>Sharifur Rahman</h2>
+                                <h2>Md Sahin Islam</h2>
                                 <span class="designation">Ceo - WPCommerz</span>
                             </div>
                             <div class="signature">
