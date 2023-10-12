@@ -80,7 +80,7 @@ export default {
             return date + ' ' + dateMonth + ' ' + dateYear;
         },
         getAuthorName(author) {
-            return author === 0 ? 'Xgenious' : 'Bytesed';
+            return author === 0 ? 'WPCommerz' : 'Bytesed';
         },
         getCategoryName(author) {
             switch (author) {

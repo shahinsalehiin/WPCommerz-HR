@@ -106,14 +106,14 @@
 <div class="mail-container">
     <div class="logo-wrapper">
         <a href="{{url('/')}}">
-            <img src="https://xgenious.com/wp-content/uploads/2022/07/Group-1171274812.png" alt="">
+            <img src="https://WPCommerz.com/wp-content/uploads/2022/07/Group-1171274812.png" alt="">
         </a>
     </div>
     <div class="inner-wrap wrap-para">
         {!! $data['message'] !!}
     </div>
     <footer>
-       <small>All Right Reserved by <a href="https://xgenious.com/">xgenious</a></small>
+       <small>All Right Reserved by <a href="https://WPCommerz.com/">WPCommerz</a></small>
     </footer>
 </div>
 

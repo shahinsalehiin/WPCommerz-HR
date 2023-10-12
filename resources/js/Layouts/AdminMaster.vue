@@ -30,7 +30,7 @@
                         </div>
                         <div class="dashboard-logo padding-top-100">
                             <Link :href="route('admin.home')" class="logo">
-                                <img src="/images/fav-icon.png" alt="xgenious logo">
+                                <img src="/images/fav-icon.png" alt="WPCommerz logo">
                             </Link>
                         </div>
                     </div>

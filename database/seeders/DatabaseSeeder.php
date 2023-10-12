@@ -30,7 +30,7 @@ class DatabaseSeeder extends Seeder
 
         // \App\Models\User::factory(10)->create();
 //        Admin::create([
-//            'name' => 'Sharifur Robin',
+//            'name' => 'Md Sahin Islam',
 //            'username' => 'dvrobin4',
 //            'email' => 'dvrobin4@gmail.com',
 //            'password' => \Hash::make(12345678),

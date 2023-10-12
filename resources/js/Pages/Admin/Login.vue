@@ -13,7 +13,7 @@
 
             <div class="container">
                 <div class="form">
-                    <h2>Welcome, Login To the XGENIOUS CRM</h2>
+                    <h2>Welcome, Login To the WPCommerz HRM</h2>
 
                     <BreezeValidationErrors class="mb-4"/>
                     <form @submit.prevent="submit">
@@ -36,11 +36,6 @@
                             <input type="submit" value="Log in" >
                         </div>
                     </form>
-<!--                    <p>Forgot password?-->
-<!--                        <Link :href="route('admin.password.request')">-->
-<!--                            Reset Now-->
-<!--                        </Link>-->
-<!--                    </p>-->
                 </div>
             </div>
         </div>

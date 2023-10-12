@@ -13,7 +13,7 @@
 
             <div class="container">
                 <div class="form">
-                    <h2>Welcome, Register Into XGENIOUS CRM</h2>
+                    <h2>Welcome, Register Into WPCommerz CRM</h2>
 
                     <BreezeValidationErrors class="mb-4"/>
 

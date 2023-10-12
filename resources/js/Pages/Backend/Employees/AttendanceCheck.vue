@@ -1,5 +1,5 @@
 <template>
-<Head title="Employee Attendance Check - Xgenious"/>
+<Head title="Employee Attendance Check - WPCommerz"/>
       <div class="row">
         <div class="col-lg-12">
             <div class="dashboard-settings margin-top-40">

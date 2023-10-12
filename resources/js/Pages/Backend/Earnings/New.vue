@@ -70,7 +70,7 @@ const options = [
         value: 3
     },
 ]
-const enUser = [{label:'Xgenious', value:'xgenious'},{label:'bytesed',value:'bytesed'}];
+const enUser = [{label:'WPCommerz', value:'WPCommerz'},{label:'bytesed',value:'bytesed'}];
 export default {
     name: "New",
     layout: AdminMaster,
@@ -99,7 +99,7 @@ export default {
             personal_earning: '',
             office_earning : '',
             statement : '',
-            en_username : 'xgenious',
+            en_username : 'WPCommerz',
             percentage : 12.50,
         });
         function createStatement(){

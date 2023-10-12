@@ -30,7 +30,7 @@
                             </div>
                         </div>
                         <div class="paratext">
-                            <p>I, <strong>{{selectedEmployee.name}}</strong>, <strong>Department: {{selectedEmployee.category}}</strong>  request an advance payment of {{payableAmount}}/- ({{ numberToWord(payableAmount) }}) BDT on my salary to be paid on 5th {{getSelectedMonthName(salarySlipData.month)}} {{new Date().getFullYear()}} due to personal problem as permitted by <strong>Xgenious</strong> policy. </p>
+                            <p>I, <strong>{{selectedEmployee.name}}</strong>, <strong>Department: {{selectedEmployee.category}}</strong>  request an advance payment of {{payableAmount}}/- ({{ numberToWord(payableAmount) }}) BDT on my salary to be paid on 5th {{getSelectedMonthName(salarySlipData.month)}} {{new Date().getFullYear()}} due to personal problem as permitted by <strong>WPCommerz</strong> policy. </p>
                             <p><strong class="d-block">I agree to repay this advance as follow: </strong>
                                 This payroll deduction to be made from my salary on the first pay period immediately following the pay period from which this advance is made.</p>
                             <p>I also agree that if I terminate employment prior to total repayment of this advance, I authorize the company to deduct any unpaid advance amount from the salary owed me at the time of termination of employment. </p>
@@ -38,8 +38,8 @@
                         <div class="footerPartWrapper">
                             <div class="signature">
                                 <span class="signature">Signature</span>
-                                <h2>Sharifur Rahman</h2>
-                                <span class="designation">Ceo - Xgenious</span>
+                                <h2>Md Sahin Islam</h2>
+                                <span class="designation">Ceo - WPCommerz</span>
                             </div>
                             <div class="signature">
                                 <span class="signature">Signature</span>

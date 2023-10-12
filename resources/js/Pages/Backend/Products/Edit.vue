@@ -79,7 +79,7 @@ export default {
            id :product.id
         });
         const authors = [
-            {label:'Xgenious',value:0},
+            {label:'WPCommerz',value:0},
             {label:'Bytesed',value:1}
         ];
         const categories = [

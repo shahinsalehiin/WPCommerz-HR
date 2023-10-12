@@ -104,7 +104,7 @@ export default {
             return date +' ' +dateMonth + ' ' + dateYear;
         }
         function getAuthorName(author){
-            return author === 0 ? 'Xgenious' : 'Bytesed';
+            return author === 0 ? 'WPCommerz' : 'Bytesed';
         }
         function getCategoryName(author){
             switch (author) {

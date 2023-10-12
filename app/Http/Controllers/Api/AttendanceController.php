@@ -164,7 +164,7 @@ class AttendanceController extends Controller
         ]);
         try{
             $message = sprintf('A "%s" request received from "%s" for the date of "%s"',ucwords(str_replace(['-','_'],' ',$request->type)),$userInfo->name,Carbon::parse($request->date_time)->format('D d-M-Y'));
-            \Mail::to('hr@xgenious.com')->send(new BasicMail([
+            \Mail::to('hr@WPCommerz.com')->send(new BasicMail([
                 'subject' => sprintf('A new "%s" request received.',ucwords(str_replace(['-','_'],' ',$request->type))),
                 'message' => $message,
             ]));
