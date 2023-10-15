@@ -264,11 +264,11 @@ export default {
                     'amount' : parseInt(responseData.attenadnceCount) * 35
                 });
 
-                //5% incentive
-                salarySlipData.extraEarningFields.push({
-                    'description' : `5% Incentive`,
-                    'amount' : 1000
-                });
+                // //5% incentive
+                // salarySlipData.extraEarningFields.push({
+                //     'description' : `5% Incentive`,
+                //     'amount' : 1000
+                // });
 
                 //add sick leave
                 const sickLeave = responseData.leaveCount > 2 ? 2 : responseData.leaveCount;
